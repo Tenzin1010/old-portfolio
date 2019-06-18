@@ -221,23 +221,18 @@
   height: 50px;
 }
 
-/* portfolio styling */
-/* .featured-work h3{
-  background: #000;
-  color: #f2ecec;
-  font-family: 'Montserrat', sans-serif;
-  padding: 5px;
-  margin-top: 0;
-  width: 60%;
-  font-size: 1em;
-  text-align: center;
-} */
 
 .projects-details ul {
   list-style: none;
   padding: 20px;
   line-height: 1.5;
 }
+.projects-details ul li {
+  width: 63%;
+  margin: auto;
+  font-size: 0.9em;
+}
+
 .soccer-quiz-video-clip {
   width: 30%; 
   height: 30%;
@@ -382,5 +377,6 @@
 
 
 }
+
 
 
